@@ -1,5 +1,7 @@
 # nyc-bike-collision-analysis
 
+Table of Contents:
+
 See "Biking Collision Analysis" notebook for the code behind my analysis.
 
 See "MVCollisionsDataDictionary_20190813_ERD.xlsx" for key descriptions.
