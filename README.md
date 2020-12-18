@@ -1,6 +1,4 @@
-# My Table of Contents For Our Analysis
-
-## Table of Contents:
+# My Table of Contents
 
 See the **"Biking Collision Analysis"** notebook for the code behind my analysis.
 
